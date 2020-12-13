@@ -10,6 +10,7 @@ Bachelor's of Science in Data Science at BYU-I
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/john-cromar-656ba316a/">LinkedIn</a>
 | <a href="https://github.com/johncromar/cromarj_resume">GitHub</a>
+  (Link Github to your main page and not the resume assignment)
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -46,7 +47,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Data Analyst__, Part-time
 Analyzed data from the school concerning students, faculty, administration, and departments.
 - Converted Tableau dashboards into interactive R shiny apps for the
-career center to make insightful decisions.
+career center to make insightful decisions.s (Typo)
 - Saved the school hundreds of man hours by automating data collection
 processes and generating automated reports.
 
